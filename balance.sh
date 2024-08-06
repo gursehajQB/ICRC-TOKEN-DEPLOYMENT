@@ -1,0 +1,2 @@
+dfx canister call bkyz2-fmaaa-aaaaa-qaaaq-cai icrc1_balance_of '(record { owner = principal "4fhqx-ff4v3-x3esk-nzclq-3e2et-3rcnh-rhoms-oph7y-4ja3h-u3yc4-mqe"; subaccount = null })'
+prlq-ai7kh-br5ez-zy2mx-zqe
